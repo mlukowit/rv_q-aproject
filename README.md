@@ -5,3 +5,4 @@ Includes:
 2) Test Scripts for testing website: 
 --Test Case 1: https://github.com/mlukowit/rv_q-aproject/tree/master/test%20case%201
 --Test Case 2: https://github.com/mlukowit/rv_q-aproject/tree/master/Test%20Case%202
+--Test Case 3: https://github.com/mlukowit/rv_q-aproject/tree/master/Test%20Case%203
