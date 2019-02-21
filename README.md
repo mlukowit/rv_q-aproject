@@ -9,3 +9,6 @@ ________________________________________________________________________________
 --Test Case 2: https://github.com/mlukowit/rv_q-aproject/tree/master/Test%20Case%202
 --Test Case 3: https://github.com/mlukowit/rv_q-aproject/tree/master/Test%20Case%203
 --Test Case 4: https://github.com/mlukowit/rv_q-aproject/tree/master/Test%20Case%204
+
+Javascript Testing included using Node.js, Mocha JS Framework, and Selenium WebDriver
+Selenium Drivers for browsers: chrome, firefox. 
